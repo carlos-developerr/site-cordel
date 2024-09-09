@@ -6,7 +6,7 @@
 [➡️ Acesse o projeto aqui](https://carlossalustiano.github.io/site-cordel/)
 
 ---
-Um site dedicado ao cordel de Milton Duarte, com um design que inclui um efeito parallax simples para uma experiência de leitura única.
+Um site dedicado ao cordel de Milton Duarte, com um design que inclui um efeito Parallax simples para uma experiência de leitura única.
 
 ## Informações
 
